@@ -18,7 +18,7 @@ function preload() {
 
 function setup() {
     
-    createCanvas(5000,5000,WEBGL);
+    createCanvas(500,500,WEBGL);
     // angleMode(DEGREES);
   stroke(190,80,190)
 }
